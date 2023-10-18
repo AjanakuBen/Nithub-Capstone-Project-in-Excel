@@ -26,6 +26,7 @@ He would also love an insight from you as the data analyst on how to improve the
 **I used a pivot table and a pivot chart to analyze the key things the managing director wanted. Also, based on the key findings I came up with insights on how to improve sales and efficiency of the company.**
 
 The files in this repository are:
+
 excel workbook that contains the raw data, cleaned data, pivot table, and an interactive dashboard.
 
 Documentation process in Word.
