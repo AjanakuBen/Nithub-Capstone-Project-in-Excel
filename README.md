@@ -1,7 +1,4 @@
 # Nithub-Capstone-Project-in-Excel
-Here's the link to the presentation slides: 
-
-https://www.canva.com/design/DAFwhm-a724/CFYEnIF75DJ6Vyl2efQTtQ/edit?utm_content=DAFwhm-a724&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 I assumed the role of a data analyst at Yemyem supermarket. The managing director requested a visualization of the sales in the year 2018 as he was not around to monitor the sales. He specified the key things he wanted from the visualization;
 
@@ -33,4 +30,8 @@ The files in this repository are:
 excel workbook that contains the raw data, cleaned data, pivot table, and an interactive dashboard.
 
 Documentation process in Word.
+
+Here's the link to the presentation slides: 
+https://www.canva.com/design/DAFwhm-a724/CFYEnIF75DJ6Vyl2efQTtQ/edit?utm_content=DAFwhm-a724&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
